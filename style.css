@@ -1,0 +1,25 @@
+#container{
+   max-width:1920px;
+    width:70%;
+    margin:0 auto;
+    padding:0;
+}
+
+h1{
+    color:#333;
+    text-transform: uppercase;
+}
+p{
+    font-size:1.1em;
+    width:70%;
+}
+
+img{
+    width:70%;
+
+}
+
+#container  li{
+    list-style-type: none;
+    font-size:1.2em;
+}
